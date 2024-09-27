@@ -1,7 +1,8 @@
 ## **Buck Converter Design and Simulation**
 
 ### **Team Information**
-- **Team Leader**: [Rujul Pawar]
+- **Team Leader**:
+  - Rujul Pawar
 - **Team Members**: 
   - Samar Mhetre
 
